@@ -1,0 +1,149 @@
+.header{
+
+    background: #3b5998;
+    width: 100%;
+    height: 80px;
+}
+body{
+    margin: 0;
+    font-family: Helvetica Neue,Arial, Helvetica, sans-serif ;
+}
+.logo{
+    width: 50%;
+    padding-top: 32px;
+    float: left;
+
+}
+.login{
+    width: 50%;
+    float: left;
+    padding-top: 10px;
+
+}
+.logo-text{
+    color: white;
+    font-size: 35px;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: Helvetica Neue,Arial, Helvetica, sans-serif;
+    margin-left: 170px;
+    
+}
+.login-label{
+    color: white;
+    font-size: 11px;
+   
+
+}
+.login-controls{
+    margin-left: 115px;
+   
+}
+.forgetton-account{
+    color: #9cb4d8;
+    font-size: 11px;
+    text-decoration: none;
+    
+}
+.sub-butn{
+    background: #4267b2;
+    border-color: #29487d;
+    color: white;
+    height: 20px;
+    cursor: pointer;
+
+}
+.sub-butn:hover{
+    background: #9cb4d8;
+}
+.left-sections{
+    width: 50%;
+    float: left;
+    padding-left: 80px;
+    padding-top: 52px;
+}
+.right-sections{
+    width: 39%;
+    float: left;
+    
+}
+.main-body{
+    background: linear-gradient(white,#D3D8E8);
+    width:100%;
+    height: 500px;
+}
+.image{
+    width: 493px;
+}
+.para{
+    font-weight: bold;
+    font-size: 18px;
+    color: rgb(27, 1, 130);
+}
+.name{
+    height: 24px;
+    width: 160px;
+    border-radius: 5px;
+    font-size: 15px;
+}
+.surname{
+    height: 24px;
+    width: 160px;
+    border-radius: 5px;
+    font-size: 15px;
+    margin: 6px;
+}
+.mob{
+    height: 24px;
+    width: 341px;
+    border-radius: 5px;
+    font-size: 15px;
+    margin-top: 8px;
+}
+.mob1{
+    height: 24px;
+    width: 341px;
+    border-radius: 5px;
+    font-size: 15px;
+    margin-top: 8px;
+}
+.birthday{
+    color: rgb(8, 8, 8);
+    font-size: 13px;
+    padding-top: 2px;
+    padding-left: 1px;
+   
+
+
+}
+.date{
+    border-radius: 0px;
+}
+.Gender{
+
+  color: rgb(8, 8, 8);
+    font-size: 13px;
+    padding-top: 2px;
+    padding-left: 3px;
+   
+}
+.gfont{
+    font-weight: bold;
+    font-size: 13px;
+}
+.para4{
+    font-size: 12px;
+    padding-top: 7px;
+}
+.signup{
+    width: 139px;
+    background: limegreen;
+    border-radius: 5px;
+    height: 28px;
+    color: white;
+    font-weight: bold;
+    border-color: green;
+}
+.signup:hover{
+    background: greenyellow;
+}
